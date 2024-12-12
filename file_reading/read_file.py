@@ -23,8 +23,8 @@
 # content = file.readlines()
 # print(content, type(content))
 
-# Exercise 01. 
 # 'with' statement is used to open a file and close it automatically
-with open("file_reading/my_file.txt", "r") as file:
-    content = file.read()
-    print(content, type(content))
+# with open("file_reading/my_file.txt", "r") as file:
+#     content = file.read()
+#     print(content, type(content))
+
