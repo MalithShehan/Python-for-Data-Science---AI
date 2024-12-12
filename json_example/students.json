@@ -1,5 +1,5 @@
 {
-    [
+    "students": [
         {
             "name": "Allice",
             "grade": 85
@@ -15,6 +15,10 @@
         {
             "name": "David",
             "grade": 65
+        },
+        {
+            "name": "Eve",
+            "grade": 95
         }
     ]
 }
