@@ -28,3 +28,7 @@
 #     content = file.read()
 #     print(content, type(content))
 
+# How to write to a file in Python
+with open("file_reading/my_file.txt", "w") as file:
+    file.write("This is owesome\n")
+    file.write("Programming is fun")
